@@ -57,8 +57,8 @@ enhanced_lda_modelling/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/putin-speeches-analysis.git
-   cd putin-speeches-analysis
+   git clone https://github.com/hasanucuzal/Enhanced-LDA-Modelling.git
+   cd enhanced_lda_modelling
    ```
 
 2. **Install required libraries:**
